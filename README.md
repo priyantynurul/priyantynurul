@@ -2,7 +2,7 @@
 - 👀 I’m interested in data and artificial intelligence
 - 🌱 I’m currently learning data science and machine learning
 - 💞️ I’m looking to collaborate on data science related projects
-- 📫 You can reach me via email on priyanty.nurul@ui.ac.id
+- 📫 You can reach me via email on priyantynurul@gmail.com
 Thank you (～￣▽￣)～
 
 <!---
